@@ -1,3 +1,4 @@
-# Test
 # Extract Unique Elements
-perissinott, october 6, 2015
+perissinotti, october 6, 2015
+
+This project is to develop a bash shell script.
